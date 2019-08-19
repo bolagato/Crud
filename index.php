@@ -5,8 +5,8 @@
 
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
+
+<html lang="br">
 
 <head>
 
